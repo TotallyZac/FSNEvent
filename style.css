@@ -59,15 +59,16 @@ h3 {
 h4 {
   font-family: 'Raleway', sans-serif;
   font-size: 35px;
-  margin-top: 100px;
+  margin-top: 45px;
 }
 
 .navigation {
   background: var(--background);
   text-align: center;
-  position: fixed;
   width: 100%;
   z-index: 999;
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .nav-toggle {
